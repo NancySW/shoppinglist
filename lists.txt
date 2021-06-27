@@ -4,6 +4,7 @@ Milk
 Pineapple
 Mushrooms
 Dessert
+Salmon
 
 Already bought:
 
